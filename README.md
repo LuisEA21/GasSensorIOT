@@ -17,8 +17,8 @@ Dispositivo electrónico de IoT para la medición de gases en el ambiente con lo
 
 # Tarjeta de control ESP32
 
-![](/img/ESP32kit.jpeg)
-![](/img/esp32kit2d.jpeg)
+![](/img/ESP32kit.jpg)
+![](/img/esp32kit2d.jpg)
 
 # Mapeo de Pines
 
