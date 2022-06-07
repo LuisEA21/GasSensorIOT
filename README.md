@@ -24,6 +24,16 @@ Dispositivo electrónico de IoT para la medición de gases en el ambiente con lo
 
 ## GasSensorIoT V1.0 
 
+### Sensors
+Dispositivo | GPIO 
+--- | --- 
+VCC | VBUS
+D2 | 34
+D1 | 35
+A2 | 32
+A1 | 33
+GND | Ground
+
 ### NeoPixels
 Dispositivo | GPIO 
 --- | --- 
@@ -36,7 +46,7 @@ Dispositivo | GPIO
 --- | --- 
 Buzzer | 12
 
-### Comunicación I2C
+### Comunicación I2C (Sensor SHT30 y Pantalla)
 Dispositivo | GPIO 
 --- | --- 
 VCC | 3V3
