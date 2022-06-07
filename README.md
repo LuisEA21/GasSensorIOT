@@ -1,5 +1,8 @@
 # GasSensorIoT
 
+![](/img/frontview.jpeg)
+![](/img/backview.jpeg)
+
 # Descripción del dispositivo
 
 Dispositivo electrónico de IoT para la medición de gases en el ambiente con los sensor MQ-2 y MQ-15. Además contiene un sensor para medir la temperatura y humedad del ambiente. La información de estos sensores es desplegada en tiempo real en una pantalla y son enviados a un servidor en la nube. Este dispositivo se compone de dos tarjetas electrónicas y un chasis impreso en 3D.
