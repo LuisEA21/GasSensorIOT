@@ -11,7 +11,9 @@ Dispositivo electrónico de IoT para la medición de gases en el ambiente con lo
 ### NeoPixels
 Dispositivo | GPIO 
 --- | --- 
-NeoPixels DataIn | 23 
+DataIn | 23
+VCC | 3V3
+GND | Ground
 
 ### Buzzer
 Dispositivo | GPIO 
